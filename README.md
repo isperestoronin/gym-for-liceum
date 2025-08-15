@@ -1,11 +1,11 @@
-# Responsive landing page using HTML CSS & JavaScript
+# Gym for Liceum is an HTML, CSS, and JavaScript project designed to promote sports among school students.
 
-### [Watch it on YouTube](https://youtu.be/RdCJmh_Hi5k)
 
-#### Responsive landing page using HTML CSS & JavaScript
+![Gym-for-Liceum-Google-Chrome-2025-08-15-09-47-36-_online-video-cutter com_](https://github.com/user-attachments/assets/e83f2c70-4ae0-4f51-9780-ea69ff0fc8e9)
 
-![Responsive-landing-page](![Gym-for-Liceum-Google-Chrome-2025-08-15-09-47-36-_online-video-cutter com_](https://github.com/user-attachments/assets/8e71cbe1-3348-491b-b572-019a54aee0e6)
-)
+
+
+
 
 
 
