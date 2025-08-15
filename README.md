@@ -4,7 +4,8 @@
 
 #### Responsive landing page using HTML CSS & JavaScript
 
-![Responsive-landing-page](https://user-images.githubusercontent.com/57999016/136793287-eebafb08-e294-489c-a597-0dbd1d0649cb.png)
+![Responsive-landing-page](![Gym-for-Liceum-Google-Chrome-2025-08-15-09-47-36-_online-video-cutter com_](https://github.com/user-attachments/assets/8e71cbe1-3348-491b-b572-019a54aee0e6)
+)
 
 
 
