@@ -1,5 +1,5 @@
 ## "Gym for Liceum" is a modern HTML, CSS, and JavaScript web project created to inspire school students to embrace sports.
- https://isperestoronin.github.io/gym-for-liceum/index.HTML
+ ##https://isperestoronin.github.io/gym-for-liceum/index.HTML
 
 # In a healthy body, a healthy mind!
 
