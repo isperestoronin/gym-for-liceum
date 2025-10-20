@@ -1,4 +1,4 @@
-## "Gym for Liceum" is a modern HTML, CSS, and JavaScript web project created to inspire school students to embrace sports.
+## "Gym for Liceum" is a modern HTML, CSS, and JavaScript static web project created to inspire school students to embrace sports.
  
 # In a healthy body, a healthy mind!
 
